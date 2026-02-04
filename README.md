@@ -2,7 +2,7 @@
 ## Fundamental of Plant Pathology PPEM505 – Module 2 
 ### Ricardo I. Alcalá Briseño
 
-<img width="468" height="103" alt="image" src="https://github.com/brisenolab/PPEM505/images/alignment.png" />
+<img width="1200" height="103" alt="image" src="https://github.com/brisenolab/PPEM505/blob/main/images/alignment.png" />
 
 #### Manual for sequence analysis using MEGA 12.
 
