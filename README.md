@@ -10,11 +10,15 @@ First, download the software [MEGA](https://www.megasoftware.net/)
 
 _Check you have installed the MEGA software._
 
-Download the data for today's analysis (4 fasta files: ITS, rRNA, root for rRNA, RdRP) or `git clone` this repository.
+Download the data for today's analysis (4 fasta files: ITS, rRNA, root for rRNA, RdRP, and more) or `git clone` this repository.
 
 ```git
 git clone https://github.com/brisenolab/PPEM505/
 ```
+
+If you haven't installed `git`, type `sudo apt install git` in Windows or `brew install git` in Mac. If you haven't installed [brew](https://brew.sh/), install it first.
+
+### Making Alignments in MEGA
 
 **Step 1.** Click on data and open a file, select the document (will start with ITS.fasta), then select align.
 **Step 2.** Evaluate visually the alignment 
